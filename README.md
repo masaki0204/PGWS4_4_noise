@@ -5,7 +5,8 @@
 
 src フォルダをUnityで開きます。
 
-![結果画像1](result_1.jpg)
+![結果画像1](https://github.com/tpu-game-2023/PGWS4_4_noise/assets/91834307/7bcb0b48-2e38-44c9-9eff-493d3cbfdfe8
+)
 
 ![結果画像2](result_2.gif)
 
