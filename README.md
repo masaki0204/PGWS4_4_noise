@@ -5,7 +5,7 @@
 
 src フォルダをUnityで開きます。
 
-![結果画像1](result_1.jpg)
+![結果画像1](https://github.com/masaki0204/PGWS4_4_noise/assets/91834307/ca00200d-fb39-442e-a9ac-3b8f034e2f41)
 
 ![結果画像2](result_2.gif)
 
@@ -21,12 +21,10 @@ src フォルダをUnityで開きます。
 
 ![結果画像](result.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](Shader2.png)
 
 ## 自分なりに変更した点
--
--
--
+ノイズとディゾルブを組み合わせてモザイクのようなものを作りました。
 
 ## 進め方
 
